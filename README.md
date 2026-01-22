@@ -14,7 +14,7 @@
 - 🔹 Aprendizado ágil e constante
   
 ---
-### 🧱 Minha Stack
+### 💻 Minha Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,5 +23,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-### ✨ Vamos nos conectar?
-🔗 [LinkedIn](www.linkedin.com/in/sammyra-silva)  
+### 🔗 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sammyra-silva)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/SEUUSUARIO](https://www.instagram.com/sammyra_dev?igsh=MWlkaThvOWl5NHVwMg==))
